@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FGw8DO60biOy1ykbNJjJtIHZUfoE0N2MgbuMNTOgbwTBje3d6vErFLO0b6i4uKWyhr45rSoHMbvzi7XjnvAECA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabri\\source\\repos\\CriptografiaSimetricaAndAssimetrica\\CriptografiaSimetricaAndAssimetrica\\CriptografiaSimetricaAndAssimetrica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
